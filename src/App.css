@@ -1,0 +1,18 @@
+.input-container{
+  width:100%;
+  overflow-y:scroll;
+  height:80%;
+}
+
+#main-container{
+  margin-top:6%;
+}
+
+textarea{
+  resize:none;
+}
+
+label{
+  text-align:center;
+  font-size:35px;
+}
